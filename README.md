@@ -7,7 +7,7 @@ Software Engineering Student
 * 🌍  I'm based in Penang, Malaysia
 * 🖥️  See my portfolio at [sarvess.com](http://sarvessveeriyah.com)
 * ✉️  You can contact me at [sarvess.jr@outlook.com](mailto:sarvess.jr@outlook.com)
-* 🧠  I'm learning Laravel | Flutter
+* 🧠  I'm still exploring
 
 <a href="https://www.twitter.com/sarvess_10" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sarvess_10?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
