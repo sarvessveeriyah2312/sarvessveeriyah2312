@@ -9,8 +9,8 @@ Software Engineering Student
 * ✉️  You can contact me at [sarvess.jr@outlook.com](mailto:sarvess.jr@outlook.com)
 * 🧠  I'm learning Laravel | Flutter
 
-<a href="https://www.twitter.com/sarvess_10" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sarvess_10?logo=twitter&style=for-the-badge&color=facc15&labelColor=1c1917"
+<a href="http://www.instagram.com/iamsarvess_23/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/instagram/follow/iamsarvess_23?logo=instagram&style=for-the-badge&color=facc15&labelColor=1c1917"
 /></a><a href="https://www.github.com/sarvessveeriyah2312" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sarvessveeriyah2312?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
