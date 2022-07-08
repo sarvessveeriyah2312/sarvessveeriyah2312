@@ -1,4 +1,4 @@
-Hi 👋 My name is Sarvess Veeriyah
+Hi 👋 I am Sarvess Veeriyah
 =================================
 
 Software Engineering Student
