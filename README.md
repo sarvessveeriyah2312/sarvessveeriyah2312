@@ -15,7 +15,7 @@ src="https://img.shields.io/twitter/follow/sarvess_10?logo=twitter&style=for-the
 src="https://img.shields.io/github/followers/sarvessveeriyah2312?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
 
 
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sarvessveeri?"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sarvessveeri?" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sarvessveeri?"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sarvessveeri?" /></a></p><br><br>
 
 ### Skills
 
