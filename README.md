@@ -5,7 +5,7 @@ Software Engineering Student
 ----------------------------
 
 * 🌍  I'm based in Penang, Malaysia
-* 🖥️  See my portfolio at [sarvess.com](http://sarvessveeriyah.dev)
+* 🖥️  See my portfolio at [sarvess.dev](http://sarvessveeriyah.dev)
 * ✉️  You can contact me at [sarvess.jr@outlook.com](mailto:sarvess.jr@outlook.com)
 * 🧠  I'm still exploring
 
