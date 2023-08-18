@@ -1,9 +1,6 @@
 Hi 👋 I am Sarvess Veeriyah
 =================================
 
-Software Engineering Student
-----------------------------
-
 * 🌍  I'm based in Penang, Malaysia
 * 🖥️  See my portfolio at [sarvessveeriyah.vercel.app](https://sarvessveeriyah.vercel.app/)
 * ✉️  You can contact me at [sarvess.jr@outlook.com](mailto:sarvess.jr@outlook.com)
