@@ -1,11 +1,11 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1113,55:115e59,100:2fae9d&height=210&section=header&text=Sarvess%20Veeriyah&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20Automation&descSize=18&descAlignY=58" width="100%" alt="Sarvess Veeriyah, Software Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1113,55:115e59,100:2fae9d&height=210&section=header&text=Sarvess%20Veeriyah&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Sarvess Veeriyah, Full-Stack Engineer"/>
 </p>
 
 <p align="center">
   <a href="https://sarvessveeriyah.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=2FAE9D&center=true&vCenter=true&width=640&lines=Full-stack+Software+Engineer+%40+SL+Information+System;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+Next.js;Building+AI+pipelines+with+OCR%2C+LLMs+%26+RAG;Cut+manual+data-entry+errors+by+~70%25;Open+to+new+opportunities+%F0%9F%8C%8D" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1100&color=2FAE9D&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+Angular+%C2%B7+Next.js;Building+AI+pipelines+with+OCR%2C+LLMs+%26+RAG;Cut+manual+data-entry+errors+by+~70%25;Open+to+new+opportunities+%F0%9F%8C%8D" alt="Typing intro"/>
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 ## 👨‍💻 About me
 
 ```java
-public class SarvessVeeriyah extends SoftwareEngineer {
+public class SarvessVeeriyah extends FullStackEngineer {
 
-    String role      = "Software Engineer @ SL Information System";
+    String role      = "Full-Stack Engineer";
     String location  = "Selangor, Malaysia 🇲🇾";
     int    yearsExp  = 2;
 
@@ -50,7 +50,7 @@ public class SarvessVeeriyah extends SoftwareEngineer {
 
 ## 🚀 Things I've built
 
-<sub>Production systems built at work, so the source is private. Click any project to expand it.</sub>
+<sub>Production systems with private source. Click any project to expand it.</sub>
 
 <details>
 <summary><b>🤖 MT-Automation</b> &nbsp;·&nbsp; <i>80%+ faster workflow creation</i></summary>
