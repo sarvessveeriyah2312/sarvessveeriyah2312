@@ -130,18 +130,6 @@ Fuzzy logic plus **NLP and named entity recognition** to automate sales order, t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvessveeriyah2312&layout=compact&hide=css,html,scss&hide_border=true&bg_color=0c1113&title_color=2fae9d&text_color=e6e4df&card_width=420" alt="Top languages"/>
 </p>
 
-<details>
-<summary><b>🎓 Education & awards</b></summary>
-<br/>
-
-| | |
-|---|---|
-| 🎓 **B.CS (Hons) Software Engineering** | Universiti Malaysia Pahang · 2020 – 2024 · Dean's List ×2 |
-| 📘 **Diploma in Information Technology** | Polytechnic Balik Pulau · 2017 – 2020 |
-| 🥇 **Gold Award** | International Expo of Innovation Product & System Design (INVIDE) · 2023 |
-| 🏆 **First Place** | Final Year Competition · 2019 · VR Glove built with Arduino |
-</details>
-
 <br/>
 
 <p align="center">
